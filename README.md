@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ijjxe6kk9EddieMerrik0iap1igan
 
-<!--
-**ijjxe6kk9EddieMerrik0iap1igan/ijjxe6kk9EddieMerrik0iap1igan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🎱 A coder in programming languages 🎳 🎱
 
-Here are some ideas to get you started:
+## About Me
+🏏 🔥 Building the future with product management 🏏 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏊 🏄 🛹 🛶 A passionate developer who loves cloud computing 🏊 🏄 🛹 🛶
+
+### Fun Facts
+💻 🥋 🏸 A professional in back-end development 💻 🥋 🏸
+
+---
+🥋 🛹 🎳 🎻 🎮 Thanks for visiting my profile! 🎯 🎬 🌈 🎾 🎣
